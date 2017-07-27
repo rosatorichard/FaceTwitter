@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FaceBookSDK</string>
+    <string name="facebook_app_id">343315612789519</string>
+    <string name="fb_login_protocol_scheme">fb343315612789519</string>
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">jRycL6qgPnk9A4X0TdXrDl4gw</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">Eo8ViT53QxXka7GjK1DxF62fEkN8m8nMbubJ26Eu32CcPWnXq0</string>
+</resources>
